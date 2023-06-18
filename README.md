@@ -15,12 +15,7 @@ Proyecto de 1ra Unidad del Curso de Inteligencia Artificial de la Universidad Na
 |04| Mónica Choque Huanca | 2018 - 119047                | 
 |05| Julio Cesar Garcia Quispe | 2019 - 119009           | 
 
-## Problemas
-
-
-
-
-- Regresión
+## Problemas de Regresión
   -  Predecir la Posibilidad de Admisión a una Universidad
       - Colab:
         https://colab.research.google.com/drive/1v57at6FSe4_BONmg5rCKEyuUMHErntYj?usp=sharing
@@ -30,7 +25,7 @@ Proyecto de 1ra Unidad del Curso de Inteligencia Artificial de la Universidad Na
         
         https://colab.research.google.com/drive/1ZBkdwLOQ7z4BHO-PZUoePhL0buwaI2dn?usp=sharing
       - Dataset: https://drive.google.com/file/d/1ncpw9spljTgNK9aiRByzuW8SyXNmfxJu/view?usp=sharing
-- Clasificación:
+## Problemas de Clasificación:
     - Distinguir entre Hongos Comestibles y Venenosos usando todas las Características del Dataset
       - Colab:
         https://colab.research.google.com/drive/1DdfSMybnvxWLkdFmfyfjc6no1cHOOpnO
